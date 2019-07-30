@@ -1,0 +1,38 @@
+[[Block: Block0]]
+0. <div><video class="qmedia" controls="true" height="360" preload="auto" width="640"><source src="http://techslides.com/demos/sample-videos/small.mp4
+" type="video/mp4" /><embed align="middle" autoplay="false" bgcolor="white" class="qmedia" controller="true" height="360" pluginspage="http://www.apple.com/quicktime/download/" src="http://techslides.com/demos/sample-videos/small.mp4
+" type="video/quicktime" width="640"></embed></video>            </div>Do you like this video?
+
+Yes
+No
+No Response
+
+
+[[Block: Block1]]
+1. <div><video class="qmedia" controls="true" height="360" preload="auto" width="640"><source src="http://techslides.com/demos/sample-videos/small.mp4
+" type="video/mp4" /><embed align="middle" autoplay="false" bgcolor="white" class="qmedia" controller="true" height="360" pluginspage="http://www.apple.com/quicktime/download/" src="http://techslides.com/demos/sample-videos/small.mp4
+" type="video/quicktime" width="640"></embed></video>            </div>Do you like this video?
+
+Yes
+No
+No Response
+
+
+[[Block: Block2]]
+2. <div><video class="qmedia" controls="true" height="360" preload="auto" width="640"><source src="http://techslides.com/demos/sample-videos/small.mp4
+" type="video/mp4" /><embed align="middle" autoplay="false" bgcolor="white" class="qmedia" controller="true" height="360" pluginspage="http://www.apple.com/quicktime/download/" src="http://techslides.com/demos/sample-videos/small.mp4
+" type="video/quicktime" width="640"></embed></video>            </div>Do you like this video?
+
+Yes
+No
+No Response
+
+
+[[Block: Block3]]
+3. <div><video class="qmedia" controls="true" height="360" preload="auto" width="640"><source src="http://techslides.com/demos/sample-videos/small.mp4" type="video/mp4" /><embed align="middle" autoplay="false" bgcolor="white" class="qmedia" controller="true" height="360" pluginspage="http://www.apple.com/quicktime/download/" src="http://techslides.com/demos/sample-videos/small.mp4" type="video/quicktime" width="640"></embed></video>            </div>Do you like this video?
+
+Yes
+No
+No Response
+
+
